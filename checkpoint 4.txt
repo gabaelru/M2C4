@@ -1,0 +1,74 @@
+Buenas,
+
+Ejercicios realizados:  https://github.com/gabaelru/M2C4
+
+**********************************************************************************
+**********************************************************************************
+**********************************************************************************
+
+
+Preguntas teóricas:
+
+1.- ¿Cuál es la diferencia entre una lista y una tupla en Python?
+
+	La diferencia es que las listas son objetos MUTABLES
+	y las tuplas son objetos INMUTABLES
+
+
+
+2 .- ¿Cuál es el orden de las operaciones?
+
+	El orden es el que se realiza en matemáticas:
+	- Parentesis
+	- Exponentes
+	- Multiplicación/División
+	- Sumas/Resta
+
+	PEMDAS en ingles.
+	
+	
+
+3.- ¿Qué es un diccionario Python?
+
+	Es un objeto mutable y vienen definidos por dos partes, clave-valor.
+	Las claves deben ser únicas, en cambio los valores se pueden repetir y 
+	pueden ser de cualquier tipo.
+	
+	Ejemplo:
+	diccionario = {1: 'Manzana', 2: 'Pera', 3: 'Fresa'}
+
+
+
+4.- ¿Cuál es la diferencia entre el método ordenado y la función de ordenación?
+
+	El método ordenado (sort) ordena el objeto original por ejemplo una lista.
+	El método ordenación (sorted) genera un nuevo objeto ordenado sin modificar el objeto original.
+
+
+
+5.- ¿Qué es un operador de asignación?
+
+	Es un operador que se usa para asignar un valor a una variable, mediante el signo "=".
+
+	También existe la opción de usar operados de asignación combinandolos con un signo matemático,
+	"+=", "-=", "*=" y "/=", que lo que hacen es realizar la operación matemática y asignarselo a la variable.
+
+	Ejemplo:
+	x = 10
+	x += 5
+
+	El valor de x sería 15
+
+
+
+
+Un saludo.
+
+	
+
+
+
+
+
+
+
